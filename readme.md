@@ -32,7 +32,7 @@ A few words about yourself <br>
 
 **Foyz Ahmmed Raju**
 
-**Academic Status:** 2nd year, B.Sc Honours, Departement of Mathematics, University of Dhaka, Bangladesh
-**Interests:**Web Development,Singing,Playing, Learning.
-**Hobbies:**Being Mathematician
-**About Myself:**Hi!I am Foyz Ahmmed Raju.I have learned web development,mathemetical thinking in computer science,a little bit about Java.I have no professional experience but I am always interested to work with new ideas.
+**Academic Status:** 2nd year, B.Sc Honours, Departement of Mathematics, University of Dhaka, Bangladesh.
+**Interests:** Web Development,Singing,Playing, Learning.
+**Hobbies:** Being Mathematician.
+**About Myself:** Hi!I am Foyz Ahmmed Raju.I have learned web development,mathemetical thinking in computer science,a little bit about Java.I have no professional experience but I am always interested to work with new ideas.
